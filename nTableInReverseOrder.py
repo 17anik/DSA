@@ -2,7 +2,7 @@
 def ReverseTable(n: int):
     i = 10
     while (i > 0):
-        print(i*n, sep=" ")
+        print(i*n)
         i -= 1
 
 ## input
